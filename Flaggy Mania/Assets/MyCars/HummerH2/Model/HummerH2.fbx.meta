@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 8a41872ce3bb88b40b6a4609c4f726a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hummer H2 SUT.001
+    100004: Hummer H2 SUT.002
+    100006: Hummer H2 SUT.003
+    100008: Hummer H2 SUT.005
+    100010: Hummer H2 SUT.007
+    100012: Hummer H2 SUT.362
+    100014: Hummer H2 SUT.366
+    100016: Hummer H2 SUT.368
+    100018: Hummer H2 SUT.370
+    100020: Hummer H2 SUT.372
+    100022: Hummer H2 SUT.383
+    100024: Hummer H2 SUT.385
+    100026: Hummer H2 SUT.386
+    100028: Hummer H2 SUT.387
+    100030: Hummer H2 SUT.394
+    100032: Hummer H2 SUT.398
+    100034: Hummer H2 SUT.434
+    100036: Hummer H2 SUT.441
+    100038: Hummer H2 SUT.442
+    100040: Hummer H2 SUT.443
+    100042: Hummer H2 SUT.444
+    100044: Hummer H2 SUT.446
+    100046: Hummer H2 SUT.452
+    100048: Hummer H2 SUT.456
+    100050: Hummer H2 SUT.460
+    100052: Hummer H2 SUT.461
+    100054: Hummer H2 SUT.464
+    100056: Hummer H2 SUT.466
+    100058: Hummer H2 SUT.467
+    100060: Hummer H2 SUT.502
+    100062: Hummer H2 SUT.507
+    100064: Hummer H2 SUT.554
+    100066: Hummer H2 SUT.566
+    400000: //RootNode
+    400002: Hummer H2 SUT.001
+    400004: Hummer H2 SUT.002
+    400006: Hummer H2 SUT.003
+    400008: Hummer H2 SUT.005
+    400010: Hummer H2 SUT.007
+    400012: Hummer H2 SUT.362
+    400014: Hummer H2 SUT.366
+    400016: Hummer H2 SUT.368
+    400018: Hummer H2 SUT.370
+    400020: Hummer H2 SUT.372
+    400022: Hummer H2 SUT.383
+    400024: Hummer H2 SUT.385
+    400026: Hummer H2 SUT.386
+    400028: Hummer H2 SUT.387
+    400030: Hummer H2 SUT.394
+    400032: Hummer H2 SUT.398
+    400034: Hummer H2 SUT.434
+    400036: Hummer H2 SUT.441
+    400038: Hummer H2 SUT.442
+    400040: Hummer H2 SUT.443
+    400042: Hummer H2 SUT.444
+    400044: Hummer H2 SUT.446
+    400046: Hummer H2 SUT.452
+    400048: Hummer H2 SUT.456
+    400050: Hummer H2 SUT.460
+    400052: Hummer H2 SUT.461
+    400054: Hummer H2 SUT.464
+    400056: Hummer H2 SUT.466
+    400058: Hummer H2 SUT.467
+    400060: Hummer H2 SUT.502
+    400062: Hummer H2 SUT.507
+    400064: Hummer H2 SUT.554
+    400066: Hummer H2 SUT.566
+    2100000: No Name
+    2300000: Hummer H2 SUT.001
+    2300002: Hummer H2 SUT.002
+    2300004: Hummer H2 SUT.003
+    2300006: Hummer H2 SUT.005
+    2300008: Hummer H2 SUT.007
+    2300010: Hummer H2 SUT.362
+    2300012: Hummer H2 SUT.366
+    2300014: Hummer H2 SUT.368
+    2300016: Hummer H2 SUT.370
+    2300018: Hummer H2 SUT.372
+    2300020: Hummer H2 SUT.383
+    2300022: Hummer H2 SUT.385
+    2300024: Hummer H2 SUT.386
+    2300026: Hummer H2 SUT.387
+    2300028: Hummer H2 SUT.394
+    2300030: Hummer H2 SUT.398
+    2300032: Hummer H2 SUT.434
+    2300034: Hummer H2 SUT.441
+    2300036: Hummer H2 SUT.442
+    2300038: Hummer H2 SUT.443
+    2300040: Hummer H2 SUT.444
+    2300042: Hummer H2 SUT.446
+    2300044: Hummer H2 SUT.452
+    2300046: Hummer H2 SUT.456
+    2300048: Hummer H2 SUT.460
+    2300050: Hummer H2 SUT.461
+    2300052: Hummer H2 SUT.464
+    2300054: Hummer H2 SUT.466
+    2300056: Hummer H2 SUT.467
+    2300058: Hummer H2 SUT.502
+    2300060: Hummer H2 SUT.507
+    2300062: Hummer H2 SUT.554
+    2300064: Hummer H2 SUT.566
+    3300000: Hummer H2 SUT.001
+    3300002: Hummer H2 SUT.002
+    3300004: Hummer H2 SUT.003
+    3300006: Hummer H2 SUT.005
+    3300008: Hummer H2 SUT.007
+    3300010: Hummer H2 SUT.362
+    3300012: Hummer H2 SUT.366
+    3300014: Hummer H2 SUT.368
+    3300016: Hummer H2 SUT.370
+    3300018: Hummer H2 SUT.372
+    3300020: Hummer H2 SUT.383
+    3300022: Hummer H2 SUT.385
+    3300024: Hummer H2 SUT.386
+    3300026: Hummer H2 SUT.387
+    3300028: Hummer H2 SUT.394
+    3300030: Hummer H2 SUT.398
+    3300032: Hummer H2 SUT.434
+    3300034: Hummer H2 SUT.441
+    3300036: Hummer H2 SUT.442
+    3300038: Hummer H2 SUT.443
+    3300040: Hummer H2 SUT.444
+    3300042: Hummer H2 SUT.446
+    3300044: Hummer H2 SUT.452
+    3300046: Hummer H2 SUT.456
+    3300048: Hummer H2 SUT.460
+    3300050: Hummer H2 SUT.461
+    3300052: Hummer H2 SUT.464
+    3300054: Hummer H2 SUT.466
+    3300056: Hummer H2 SUT.467
+    3300058: Hummer H2 SUT.502
+    3300060: Hummer H2 SUT.507
+    3300062: Hummer H2 SUT.554
+    3300064: Hummer H2 SUT.566
+    4300000: Hummer H2 SUT.362
+    4300002: Hummer H2 SUT.001
+    4300004: Hummer H2 SUT.002
+    4300006: Hummer H2 SUT.005
+    4300008: Hummer H2 SUT.007
+    4300010: Hummer H2 SUT.366
+    4300012: Hummer H2 SUT.368
+    4300014: Hummer H2 SUT.370
+    4300016: Hummer H2 SUT.372
+    4300018: Hummer H2 SUT.383
+    4300020: Hummer H2 SUT.385
+    4300022: Hummer H2 SUT.386
+    4300024: Hummer H2 SUT.387
+    4300026: Hummer H2 SUT.394
+    4300028: Hummer H2 SUT.398
+    4300030: Hummer H2 SUT.434
+    4300032: Hummer H2 SUT.441
+    4300034: Hummer H2 SUT.442
+    4300036: Hummer H2 SUT.443
+    4300038: Hummer H2 SUT.444
+    4300040: Hummer H2 SUT.446
+    4300042: Hummer H2 SUT.452
+    4300044: Hummer H2 SUT.456
+    4300046: Hummer H2 SUT.460
+    4300048: Hummer H2 SUT.461
+    4300050: Hummer H2 SUT.464
+    4300052: Hummer H2 SUT.466
+    4300054: Hummer H2 SUT.467
+    4300056: Hummer H2 SUT.502
+    4300058: Hummer H2 SUT.507
+    4300060: Hummer H2 SUT.554
+    4300062: Hummer H2 SUT.566
+    4300064: Hummer H2 SUT.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

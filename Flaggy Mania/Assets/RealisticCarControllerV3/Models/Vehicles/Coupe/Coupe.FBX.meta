@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: e6b5928314bca66479ad088886bdc8c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Brake Lights
+    100004: Chrome Parts
+    100006: //RootNode
+    100008: Front Bumper
+    100010: Front Bumper Lip
+    100012: Front Window
+    100014: Hood
+    100016: Left Door
+    100018: Left Fender
+    100020: Rear Bumper
+    100022: Rear Sidemarkers
+    100024: Rear Sidewindows
+    100026: Right Door
+    100028: Right Fender
+    100030: Trunk
+    100032: Wheel_FL
+    100034: Wheel_FR
+    100036: Wheel_RL
+    100038: Wheel_RR
+    400000: Body
+    400002: Brake Lights
+    400004: Chrome Parts
+    400006: //RootNode
+    400008: Front Bumper
+    400010: Front Bumper Lip
+    400012: Front Window
+    400014: Hood
+    400016: Left Door
+    400018: Left Fender
+    400020: Rear Bumper
+    400022: Rear Sidemarkers
+    400024: Rear Sidewindows
+    400026: Right Door
+    400028: Right Fender
+    400030: Trunk
+    400032: Wheel_FL
+    400034: Wheel_FR
+    400036: Wheel_RL
+    400038: Wheel_RR
+    2300000: Body
+    2300002: Brake Lights
+    2300004: Chrome Parts
+    2300006: Front Bumper
+    2300008: Front Bumper Lip
+    2300010: Front Window
+    2300012: Hood
+    2300014: Left Door
+    2300016: Left Fender
+    2300018: Rear Bumper
+    2300020: Rear Sidemarkers
+    2300022: Rear Sidewindows
+    2300024: Right Door
+    2300026: Right Fender
+    2300028: Trunk
+    2300030: Wheel_FL
+    2300032: Wheel_FR
+    2300034: Wheel_RL
+    2300036: Wheel_RR
+    3300000: Body
+    3300002: Brake Lights
+    3300004: Chrome Parts
+    3300006: Front Bumper
+    3300008: Front Bumper Lip
+    3300010: Front Window
+    3300012: Hood
+    3300014: Left Door
+    3300016: Left Fender
+    3300018: Rear Bumper
+    3300020: Rear Sidemarkers
+    3300022: Rear Sidewindows
+    3300024: Right Door
+    3300026: Right Fender
+    3300028: Trunk
+    3300030: Wheel_FL
+    3300032: Wheel_FR
+    3300034: Wheel_RL
+    3300036: Wheel_RR
+    4300000: Wheel_FL
+    4300002: Trunk
+    4300004: Right Door
+    4300006: Rear Sidewindows
+    4300008: Rear Sidemarkers
+    4300010: Rear Bumper
+    4300012: Left Fender
+    4300014: Left Door
+    4300016: Hood
+    4300018: Front Window
+    4300020: Front Bumper Lip
+    4300022: Front Bumper
+    4300024: Chrome Parts
+    4300026: Brake Lights
+    4300028: Body
+    4300030: Wheel_FR
+    4300032: Wheel_RR
+    4300034: Wheel_RL
+    4300036: Right Fender
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air Filter
+    second: {fileID: 2100000, guid: 40009b56df560c54b83b847a59a1004f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: b04ec245539099d489d1bec463781e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Disc
+    second: {fileID: 2100000, guid: 0ffd4f1cf6abdbb4f9f9995a5122154b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Lights
+    second: {fileID: 2100000, guid: c567378382222c64e8540628e1942efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cap
+    second: {fileID: 2100000, guid: 1b456a0e0fa290645b4982de851a2e2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: c656bc9a2a343bb479d5bdfe990d4bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Parts
+    second: {fileID: 2100000, guid: 2a91f42cbdbbcca4b8c5a7f9749af06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exhaust
+    second: {fileID: 2100000, guid: 7a85fc372aec12347b44885820161d18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grill
+    second: {fileID: 2100000, guid: 9a8911bf3922eea438cf449eb53277ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head Lights
+    second: {fileID: 2100000, guid: df95d177057dd2142a37e0c1ba707da6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Indicator Lights
+    second: {fileID: 2100000, guid: fdab0ff4336203e40b578f4cbf5b5801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior
+    second: {fileID: 2100000, guid: 152ac1482130e814f8ac4a63532c6f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mechanic
+    second: {fileID: 2100000, guid: 4e9e52a5652531542b739c75b0cc594a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate 1
+    second: {fileID: 2100000, guid: a4b4b3bdd59fbd246a28d446c9577831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate 2
+    second: {fileID: 2100000, guid: 8445febf1f10a6b48bc9860be8054309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rims
+    second: {fileID: 2100000, guid: de80d0cb0d536474e8c5bad8f5e08182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: f452674846645e54c802f9004b578d6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Line
+    second: {fileID: 2100000, guid: b6a97c0e6827c3340bde976e8814ba6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: e989a1931eb233d4a9f8bd70d3aab3f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 33
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

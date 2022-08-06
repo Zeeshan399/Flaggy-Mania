@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 70478561959d53843a96e10c7ddfd908
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Buttom
+    100006: Connector
+    100008: Dash
+    100010: Exhaust
+    100012: Front Bumper
+    100014: Front Left Headlight
+    100016: Front Left Indicator
+    100018: Front Right Headlight
+    100020: Front Right Indicator
+    100022: Interior
+    100024: Interior Lights
+    100026: Left Side Indicator
+    100028: Middle Door 003
+    100030: Middle Door 004
+    100032: Middle Door 1
+    100034: Middle Door 2
+    100036: Right Side Indicator
+    100038: Side Lights
+    100040: Steering Wheel
+    100042: Steering Wheel Shaft
+    100044: Tail Lights
+    100046: Wheel_FL
+    100048: Wheel_FR
+    100050: Wheel_RL
+    100052: Wheel_RR
+    100054: Windows
+    400000: Body
+    400002: //RootNode
+    400004: Buttom
+    400006: Connector
+    400008: Dash
+    400010: Exhaust
+    400012: Front Bumper
+    400014: Front Left Headlight
+    400016: Front Left Indicator
+    400018: Front Right Headlight
+    400020: Front Right Indicator
+    400022: Interior
+    400024: Interior Lights
+    400026: Left Side Indicator
+    400028: Middle Door 003
+    400030: Middle Door 004
+    400032: Middle Door 1
+    400034: Middle Door 2
+    400036: Right Side Indicator
+    400038: Side Lights
+    400040: Steering Wheel
+    400042: Steering Wheel Shaft
+    400044: Tail Lights
+    400046: Wheel_FL
+    400048: Wheel_FR
+    400050: Wheel_RL
+    400052: Wheel_RR
+    400054: Windows
+    2300000: Body
+    2300002: Buttom
+    2300004: Connector
+    2300006: Dash
+    2300008: Exhaust
+    2300010: Front Bumper
+    2300012: Front Left Headlight
+    2300014: Front Left Indicator
+    2300016: Front Right Headlight
+    2300018: Front Right Indicator
+    2300020: Interior
+    2300022: Interior Lights
+    2300024: Left Side Indicator
+    2300026: Middle Door 003
+    2300028: Middle Door 004
+    2300030: Middle Door 1
+    2300032: Middle Door 2
+    2300034: Right Side Indicator
+    2300036: Side Lights
+    2300038: Steering Wheel
+    2300040: Steering Wheel Shaft
+    2300042: Tail Lights
+    2300044: Wheel_FL
+    2300046: Wheel_FR
+    2300048: Wheel_RL
+    2300050: Wheel_RR
+    2300052: Windows
+    3300000: Body
+    3300002: Buttom
+    3300004: Connector
+    3300006: Dash
+    3300008: Exhaust
+    3300010: Front Bumper
+    3300012: Front Left Headlight
+    3300014: Front Left Indicator
+    3300016: Front Right Headlight
+    3300018: Front Right Indicator
+    3300020: Interior
+    3300022: Interior Lights
+    3300024: Left Side Indicator
+    3300026: Middle Door 003
+    3300028: Middle Door 004
+    3300030: Middle Door 1
+    3300032: Middle Door 2
+    3300034: Right Side Indicator
+    3300036: Side Lights
+    3300038: Steering Wheel
+    3300040: Steering Wheel Shaft
+    3300042: Tail Lights
+    3300044: Wheel_FL
+    3300046: Wheel_FR
+    3300048: Wheel_RL
+    3300050: Wheel_RR
+    3300052: Windows
+    4300000: Front Bumper
+    4300002: Body
+    4300004: Windows
+    4300006: Buttom
+    4300008: Connector
+    4300010: Exhaust
+    4300012: Interior
+    4300014: Right Side Indicator
+    4300016: Front Right Indicator
+    4300018: Left Side Indicator
+    4300020: Front Left Indicator
+    4300022: Tail Lights
+    4300024: Front Right Headlight
+    4300026: Front Left Headlight
+    4300028: Interior Lights
+    4300030: Middle Door 2
+    4300032: Dash
+    4300034: Side Lights
+    4300036: Middle Door 1
+    4300038: Middle Door 003
+    4300040: Middle Door 004
+    4300042: Wheel_FR
+    4300044: Wheel_FL
+    4300046: Wheel_RR
+    4300048: Wheel_RL
+    4300050: Steering Wheel Shaft
+    4300052: Steering Wheel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Body
+    second: {fileID: 2100000, guid: 861210317c5edc349991c7d20a568426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Buttom
+    second: {fileID: 2100000, guid: 96f8c9159107557448354aa92f03d0bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Chrome
+    second: {fileID: 2100000, guid: c66072e602f97ed479f63a0b8d19fba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Dash
+    second: {fileID: 2100000, guid: 2bcbd49fea105804faa373714ddd35a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Exhaust
+    second: {fileID: 2100000, guid: 6b1f815c73c72834f875d47d89f4e493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Headlights
+    second: {fileID: 2100000, guid: 3c5976044007b5342ac25e9af32b2953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Interior
+    second: {fileID: 2100000, guid: 25d0f2c1755dcb643aa8350b4a88a921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_InteriorLights
+    second: {fileID: 2100000, guid: 57c64c59a2c75514b9f4218c39d8bd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Rubber
+    second: {fileID: 2100000, guid: 43bc971f1c41b0a4e9ebee6123074e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Stairs
+    second: {fileID: 2100000, guid: 46f93bc75d368c243887f1bf3167b50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_SteeringWheel
+    second: {fileID: 2100000, guid: e5778e457ad2a0d4e9e2fe31e9296cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Taillights
+    second: {fileID: 2100000, guid: 836e9056ba21edc429d6a4fc29a1f320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Tyre
+    second: {fileID: 2100000, guid: 25a8839c2e58cc041aaad464a1bfac15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus_Windows
+    second: {fileID: 2100000, guid: 3c556c1ac68b76e42980ce5161165971, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bus_Dash
+    second: {fileID: 2800000, guid: ddc3aa86fbf37834d99d16571882c19d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bus_Headlight
+    second: {fileID: 2800000, guid: 4daac38550bc9cb44a1c3c956187a377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bus_Interior
+    second: {fileID: 2800000, guid: 43c864c4b3fe75842bca35b13a6ef64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bus_Stairs
+    second: {fileID: 2800000, guid: 76db385f54b252444b534cc9e6664bc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bus_Tyre
+    second: {fileID: 2800000, guid: ac48f423ef3f15745acde099436aecc4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 33
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

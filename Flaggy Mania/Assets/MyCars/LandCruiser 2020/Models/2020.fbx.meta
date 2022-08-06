@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 68e02aebd6b99c3489a0cfd9515b12ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: black m.001
+    100004: black m.005
+    100006: black m.009
+    100008: black m.023
+    100010: black m.024
+    100012: black m.026
+    100014: black m01
+    100016: black m01.003
+    100018: body01.004
+    100020: chrome0.007
+    100022: chrome0.011
+    100024: chrome6
+    100026: chrome6.001
+    100028: Circle.001
+    100030: glass03.001
+    100032: gum.001
+    100034: gum04.015
+    100036: gum1.003
+    100038: gum1.008
+    100040: Plane
+    100042: Plane.001
+    100044: Plane.004
+    100046: Plane.006
+    100048: Plane.007
+    100050: Plane.008
+    100052: Plane.012
+    100054: Plane.013
+    100056: Plane.014
+    100058: Plane.015
+    100060: Plane.016
+    100062: Plane.017
+    100064: Plane.018
+    100066: Plane.019
+    100068: Plane.021
+    100070: Plane.022
+    100072: Plane.108
+    100074: r glass.001
+    100076: r glass.002
+    100078: r glass.003
+    100080: r glass.006
+    100082: r glass.010
+    400000: //RootNode
+    400002: black m.001
+    400004: black m.005
+    400006: black m.009
+    400008: black m.023
+    400010: black m.024
+    400012: black m.026
+    400014: black m01
+    400016: black m01.003
+    400018: body01.004
+    400020: chrome0.007
+    400022: chrome0.011
+    400024: chrome6
+    400026: chrome6.001
+    400028: Circle.001
+    400030: glass03.001
+    400032: gum.001
+    400034: gum04.015
+    400036: gum1.003
+    400038: gum1.008
+    400040: Plane
+    400042: Plane.001
+    400044: Plane.004
+    400046: Plane.006
+    400048: Plane.007
+    400050: Plane.008
+    400052: Plane.012
+    400054: Plane.013
+    400056: Plane.014
+    400058: Plane.015
+    400060: Plane.016
+    400062: Plane.017
+    400064: Plane.018
+    400066: Plane.019
+    400068: Plane.021
+    400070: Plane.022
+    400072: Plane.108
+    400074: r glass.001
+    400076: r glass.002
+    400078: r glass.003
+    400080: r glass.006
+    400082: r glass.010
+    2100000: No Name
+    2100002: lc_200_2016.000
+    2100004: lc_200_2016
+    2300000: black m.001
+    2300002: black m.005
+    2300004: black m.009
+    2300006: black m.023
+    2300008: black m.024
+    2300010: black m.026
+    2300012: black m01
+    2300014: black m01.003
+    2300016: body01.004
+    2300018: chrome0.007
+    2300020: chrome0.011
+    2300022: chrome6
+    2300024: chrome6.001
+    2300026: Circle.001
+    2300028: glass03.001
+    2300030: gum.001
+    2300032: gum04.015
+    2300034: gum1.003
+    2300036: gum1.008
+    2300038: Plane
+    2300040: Plane.001
+    2300042: Plane.004
+    2300044: Plane.006
+    2300046: Plane.007
+    2300048: Plane.008
+    2300050: Plane.012
+    2300052: Plane.013
+    2300054: Plane.014
+    2300056: Plane.015
+    2300058: Plane.016
+    2300060: Plane.017
+    2300062: Plane.018
+    2300064: Plane.019
+    2300066: Plane.021
+    2300068: Plane.022
+    2300070: Plane.108
+    2300072: r glass.001
+    2300074: r glass.002
+    2300076: r glass.003
+    2300078: r glass.006
+    2300080: r glass.010
+    3300000: black m.001
+    3300002: black m.005
+    3300004: black m.009
+    3300006: black m.023
+    3300008: black m.024
+    3300010: black m.026
+    3300012: black m01
+    3300014: black m01.003
+    3300016: body01.004
+    3300018: chrome0.007
+    3300020: chrome0.011
+    3300022: chrome6
+    3300024: chrome6.001
+    3300026: Circle.001
+    3300028: glass03.001
+    3300030: gum.001
+    3300032: gum04.015
+    3300034: gum1.003
+    3300036: gum1.008
+    3300038: Plane
+    3300040: Plane.001
+    3300042: Plane.004
+    3300044: Plane.006
+    3300046: Plane.007
+    3300048: Plane.008
+    3300050: Plane.012
+    3300052: Plane.013
+    3300054: Plane.014
+    3300056: Plane.015
+    3300058: Plane.016
+    3300060: Plane.017
+    3300062: Plane.018
+    3300064: Plane.019
+    3300066: Plane.021
+    3300068: Plane.022
+    3300070: Plane.108
+    3300072: r glass.001
+    3300074: r glass.002
+    3300076: r glass.003
+    3300078: r glass.006
+    3300080: r glass.010
+    4300000: black m01
+    4300002: gum.001
+    4300004: black m.009
+    4300006: black m.023
+    4300008: black m.024
+    4300010: black m.026
+    4300012: Plane.012
+    4300014: Plane.013
+    4300016: Plane.014
+    4300018: Plane.015
+    4300020: Plane.016
+    4300022: Plane.017
+    4300024: Plane.018
+    4300026: black m.001
+    4300028: Plane.004
+    4300030: glass03.001
+    4300032: Plane.108
+    4300034: Plane.008
+    4300036: black m.005
+    4300038: black m01.003
+    4300040: Plane.022
+    4300042: Plane.019
+    4300044: r glass.002
+    4300046: r glass.003
+    4300048: r glass.006
+    4300050: r glass.010
+    4300052: Plane.006
+    4300054: Plane.007
+    4300056: Plane.021
+    4300058: gum04.015
+    4300060: body01.004
+    4300062: chrome0.011
+    4300064: r glass.001
+    4300066: chrome0.007
+    4300068: Circle.001
+    4300070: Plane
+    4300072: Plane.001
+    4300074: chrome6
+    4300076: gum1.003
+    4300078: gum1.008
+    4300080: chrome6.001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

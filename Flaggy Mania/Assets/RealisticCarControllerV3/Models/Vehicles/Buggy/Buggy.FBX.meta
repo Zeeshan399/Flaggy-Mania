@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: b5f2888b87badac44a3f80dedbda55a7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone_FrontAxleLeft
+    100004: Bone_FrontAxleRight
+    100006: Bone_FrontLeftSuspensionButtom
+    100008: Bone_FrontLeftSuspensionButtom1
+    100010: Bone_FrontLeftSuspensionTop
+    100012: Bone_FrontLeftSuspensionTop1
+    100014: Bone_FrontRightSuspension1Buttom
+    100016: Bone_FrontRightSuspension1Top
+    100018: Bone_FrontRightSuspensionButtom
+    100020: Bone_FrontRightSuspensionTop
+    100022: Bone_RearAxleLeft
+    100024: Bone_RearAxleRight
+    100026: Bone_RearLeftSuspensionButtom
+    100028: Bone_RearLeftSuspensionButtom1
+    100030: Bone_RearLeftSuspensionTop
+    100032: Bone_RearLeftSuspensionTop1
+    100034: Bone_RearRightSuspension1Buttom
+    100036: Bone_RearRightSuspension1Top
+    100038: Bone_RearRightSuspensionButtom
+    100040: Bone_RearRightSuspensionTop
+    100042: //RootNode
+    100044: Chassis
+    100046: Front Axle
+    100048: Front Bumper
+    100050: Front Left Headlight
+    100052: Front Right Headlight
+    100054: Hood
+    100056: Hook_FL
+    100058: Hook_FR
+    100060: Hook_RL
+    100062: Hook_RR
+    100064: Left Brakelight
+    100066: Left Taillight
+    100068: Rear Axle
+    100070: Rear Bumper
+    100072: Rear Windshield
+    100074: Right Brakelight
+    100076: Right Taillight
+    100078: Shaft_Front
+    100080: Shaft_Rear
+    100082: SteeringWheel
+    100084: Suspension_FL
+    100086: Suspension_FL1
+    100088: Suspension_FR
+    100090: Suspension_FR1
+    100092: Suspension_RL
+    100094: Suspension_RL1
+    100096: Suspension_RR
+    100098: Suspension_RR1
+    100100: Swing_FL
+    100102: Swing_FR
+    100104: Swing_RL
+    100106: Swing_RR
+    100108: Wheel_FL
+    100110: Wheel_FR
+    100112: Wheel_RL
+    100114: Wheel_RR
+    100116: Windshield
+    400000: Body
+    400002: Bone_FrontAxleLeft
+    400004: Bone_FrontAxleRight
+    400006: Bone_FrontLeftSuspensionButtom
+    400008: Bone_FrontLeftSuspensionButtom1
+    400010: Bone_FrontLeftSuspensionTop
+    400012: Bone_FrontLeftSuspensionTop1
+    400014: Bone_FrontRightSuspension1Buttom
+    400016: Bone_FrontRightSuspension1Top
+    400018: Bone_FrontRightSuspensionButtom
+    400020: Bone_FrontRightSuspensionTop
+    400022: Bone_RearAxleLeft
+    400024: Bone_RearAxleRight
+    400026: Bone_RearLeftSuspensionButtom
+    400028: Bone_RearLeftSuspensionButtom1
+    400030: Bone_RearLeftSuspensionTop
+    400032: Bone_RearLeftSuspensionTop1
+    400034: Bone_RearRightSuspension1Buttom
+    400036: Bone_RearRightSuspension1Top
+    400038: Bone_RearRightSuspensionButtom
+    400040: Bone_RearRightSuspensionTop
+    400042: //RootNode
+    400044: Chassis
+    400046: Front Axle
+    400048: Front Bumper
+    400050: Front Left Headlight
+    400052: Front Right Headlight
+    400054: Hood
+    400056: Hook_FL
+    400058: Hook_FR
+    400060: Hook_RL
+    400062: Hook_RR
+    400064: Left Brakelight
+    400066: Left Taillight
+    400068: Rear Axle
+    400070: Rear Bumper
+    400072: Rear Windshield
+    400074: Right Brakelight
+    400076: Right Taillight
+    400078: Shaft_Front
+    400080: Shaft_Rear
+    400082: SteeringWheel
+    400084: Suspension_FL
+    400086: Suspension_FL1
+    400088: Suspension_FR
+    400090: Suspension_FR1
+    400092: Suspension_RL
+    400094: Suspension_RL1
+    400096: Suspension_RR
+    400098: Suspension_RR1
+    400100: Swing_FL
+    400102: Swing_FR
+    400104: Swing_RL
+    400106: Swing_RR
+    400108: Wheel_FL
+    400110: Wheel_FR
+    400112: Wheel_RL
+    400114: Wheel_RR
+    400116: Windshield
+    2300000: Body
+    2300002: Chassis
+    2300004: Front Bumper
+    2300006: Front Left Headlight
+    2300008: Front Right Headlight
+    2300010: Hood
+    2300012: Hook_FL
+    2300014: Hook_FR
+    2300016: Hook_RL
+    2300018: Hook_RR
+    2300020: Left Brakelight
+    2300022: Left Taillight
+    2300024: Rear Bumper
+    2300026: Rear Windshield
+    2300028: Right Brakelight
+    2300030: Right Taillight
+    2300032: Shaft_Front
+    2300034: Shaft_Rear
+    2300036: SteeringWheel
+    2300038: Swing_FL
+    2300040: Swing_FR
+    2300042: Swing_RL
+    2300044: Swing_RR
+    2300046: Wheel_FL
+    2300048: Wheel_FR
+    2300050: Wheel_RL
+    2300052: Wheel_RR
+    2300054: Windshield
+    3300000: Body
+    3300002: Chassis
+    3300004: Front Bumper
+    3300006: Front Left Headlight
+    3300008: Front Right Headlight
+    3300010: Hood
+    3300012: Hook_FL
+    3300014: Hook_FR
+    3300016: Hook_RL
+    3300018: Hook_RR
+    3300020: Left Brakelight
+    3300022: Left Taillight
+    3300024: Rear Bumper
+    3300026: Rear Windshield
+    3300028: Right Brakelight
+    3300030: Right Taillight
+    3300032: Shaft_Front
+    3300034: Shaft_Rear
+    3300036: SteeringWheel
+    3300038: Swing_FL
+    3300040: Swing_FR
+    3300042: Swing_RL
+    3300044: Swing_RR
+    3300046: Wheel_FL
+    3300048: Wheel_FR
+    3300050: Wheel_RL
+    3300052: Wheel_RR
+    3300054: Windshield
+    4300000: Wheel_RR
+    4300002: Wheel_RL
+    4300004: Wheel_FR
+    4300006: Wheel_FL
+    4300008: Windshield
+    4300010: Right Taillight
+    4300012: Right Brakelight
+    4300014: Rear Windshield
+    4300016: Rear Bumper
+    4300018: Left Taillight
+    4300020: Left Brakelight
+    4300022: Hood
+    4300024: Front Right Headlight
+    4300026: Front Left Headlight
+    4300028: Front Bumper
+    4300030: Chassis
+    4300032: Body
+    4300034: SteeringWheel
+    4300036: Hook_FR
+    4300038: Hook_FL
+    4300040: Hook_RL
+    4300042: Hook_RR
+    4300044: Rear Axle
+    4300046: Suspension_RR
+    4300048: Suspension_RR1
+    4300050: Front Axle
+    4300052: Suspension_FR
+    4300054: Suspension_FR1
+    4300056: Shaft_Front
+    4300058: Shaft_Rear
+    4300060: Suspension_RL
+    4300062: Suspension_RL1
+    4300064: Suspension_FL
+    4300066: Suspension_FL1
+    4300068: Swing_RL
+    4300070: Swing_FL
+    4300072: Swing_FR
+    4300074: Swing_RR
+    11100000: //RootNode
+    13700000: Front Axle
+    13700002: Rear Axle
+    13700004: Suspension_FL
+    13700006: Suspension_FL1
+    13700008: Suspension_FR
+    13700010: Suspension_FR1
+    13700012: Suspension_RL
+    13700014: Suspension_RL1
+    13700016: Suspension_RR
+    13700018: Suspension_RR1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Body
+    second: {fileID: 2100000, guid: c240c2a13ac2071429e41fabf0563768, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Brakelight
+    second: {fileID: 2100000, guid: 59ea4bfe42458b54cbfadeb0f6803c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Damper
+    second: {fileID: 2100000, guid: 4b2bfed25ed288446bce413ebfa235ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Dash
+    second: {fileID: 2100000, guid: 5fc7129c80cc80f4c8495577f334009a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Engine
+    second: {fileID: 2100000, guid: d567bd25fedd86a428576c9dcd53a9a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Frame
+    second: {fileID: 2100000, guid: b77de2b1d6699d14fabfd32981b219f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Headlights
+    second: {fileID: 2100000, guid: da08531c323b13d4cb8801e106223714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Interior
+    second: {fileID: 2100000, guid: 3d22d017854dd324380a0936b44bc87c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Seats
+    second: {fileID: 2100000, guid: aaa6ee9bf9505a44180065ae79766828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Snorkel
+    second: {fileID: 2100000, guid: b853d8be3420b0f418e1806b8b42166e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Spring
+    second: {fileID: 2100000, guid: bece79073205be6459211de179b3081a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_SteeringWheel
+    second: {fileID: 2100000, guid: 28c70c45f672c37419391304f3d3d4eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Tyre
+    second: {fileID: 2100000, guid: e537219eee73d654b94b375a7e08e9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Winch
+    second: {fileID: 2100000, guid: c5de56bcffd644b46b60458220916e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Windows
+    second: {fileID: 2100000, guid: 1b53f4d3af394284c8cfd5530518f2d3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Body
+    second: {fileID: 2800000, guid: bdae3de1605278341aceb42e0e3b1b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Brakelight
+    second: {fileID: 2800000, guid: 0a313f50337efcf4f8953db76349a4cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_DamperF
+    second: {fileID: 2800000, guid: a55ab45745cb7a84ebe8a57459e5992f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Dash
+    second: {fileID: 2800000, guid: 3e99dd6223794a645bb3890c33468638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Engine
+    second: {fileID: 2800000, guid: ef7db5cff98b470489d26eadb33cc71c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Frame
+    second: {fileID: 2800000, guid: 7f55db9f49967944f92263f6c0a7610c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Headlights
+    second: {fileID: 2800000, guid: c83d47c1a6a11044fb6dad15bb36f81f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Interior
+    second: {fileID: 2800000, guid: 40bbbb28c69fb9b4b9659fc2f4022cb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Seats
+    second: {fileID: 2800000, guid: bf30b6bbdfe9f3d4f856ccc0aa9492aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Snorkel
+    second: {fileID: 2800000, guid: 16a3f75893a193146b91e19cd36f4c43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Springs
+    second: {fileID: 2800000, guid: 2221ae22a4d5e384aa4ab3e654a083e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_SteeringWheel
+    second: {fileID: 2800000, guid: ec9a1c582ea67d243bfa1be1c321e106, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Wheel
+    second: {fileID: 2800000, guid: cb3102b3c1c160e4bad692ca98c33fa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Buggy_Winch
+    second: {fileID: 2800000, guid: 6f52a76763ee35244978bc285ede43cd, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 33
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
